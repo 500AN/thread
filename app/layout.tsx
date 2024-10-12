@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     template: "%s | Thread",
     default: "Thread",
   },
-  description: "Twitch Clone with Next.js, React.js, TailWindCSS & TypeScript.",
+  description: "Mini Project with Next.js, React.js, TailWindCSS & TypeScript.",
 };
 
 export default function RootLayout({
